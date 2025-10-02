@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Muneeb</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammad-muneeb-ubit](https://github.com/muhammad-muneeb-ubit)
 
-- 💬 Ask me about **frontend web development**
+- 💬 Ask me about **full stack web development**
 
 - 📫 How to reach me **mohammadmunib1233@gmail.com**
 
